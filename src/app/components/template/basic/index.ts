@@ -1,2 +1,2 @@
-export * from "./BaseTemplate";
+export * from "./BasicTemplate";
 export * from "./interface";
